@@ -1,0 +1,2 @@
+Productos con stock menor al minimo:
+Codigo de producto: 234. Nombre de producto: detergente. Precio: 5000. Stock actual: -5. Stock minimo: 2
