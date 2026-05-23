@@ -1,0 +1,20 @@
+1001 2500.00 Ficción
+El juguete rabioso
+1002 1800.50 Romance
+La amortajada
+1003 3200.75 Realismo mágico
+Rayuela
+1004 1500.00 Drama
+El túnel
+1005 2100.00 Histórica
+Santa Evita
+1006 2800.00 Policial
+La traición de Rita Hayworth
+1007 1950.25 Aventura
+Don Segundo Sombra
+1008 3100.00 Terror
+El mal menor
+1009 2250.50 Ciencia ficción
+Adán Buenosayres
+1010 1700.00 Drama
+Sobre héroes y tumbas
